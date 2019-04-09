@@ -1,6 +1,6 @@
 # 压秒助手介绍
 ## 下载链接
-[压秒助手V0.0.3.apk](https://github.com/mcqueenlee/stzbtimerhelper/raw/master/%E5%8E%8B%E7%A7%92%E5%8A%A9%E6%89%8BV0.0.3.apk)
+[压秒助手V0.0.4.apk](https://github.com/mcqueenlee/stzbtimerhelper/raw/master/%E5%8E%8B%E7%A7%92%E5%8A%A9%E6%89%8BV0.0.4.apk)
 
 ## 关于打开悬浮窗权限</br>
 [点我查看](https://github.com/mcqueenlee/stzbtimerhelper/wiki/%E5%90%84%E6%9C%BA%E5%9E%8B%E6%89%93%E5%BC%80%E6%82%AC%E6%B5%AE%E7%AA%97%E6%9D%83%E9%99%90%E8%AF%B4%E6%98%8E "机型说明")
